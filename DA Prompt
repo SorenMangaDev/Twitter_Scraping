@@ -1,0 +1,26 @@
+I have Twitter feed data in CSV format with columns: username, text, timestamp, has_images, number_of_images, has_video, replies, retweets, and likes. Please perform a quantitative analysis focusing on these specific metrics:
+
+Political Content Distribution:Categorize each tweet as either left-leaning, right-leaning, or neutral
+Calculate the exact ratio of left vs right political content
+List the specific keywords/phrases used for categorization
+For political tweets, identify the top engaged accounts
+
+
+Engagement Analysis:Top 20 most engaged tweets (by total engagement: likes + retweets + replies)
+Average engagement rates for different content categories
+
+Topics and Content:List the top 5 most frequently discussed topics
+Most common hashtags and their frequency
+Distribution of media types (% with images, videos, text-only)
+Most actively engaged accounts in the dataset
+
+Raw Metrics:Total number of tweets analyzed
+Average likes, retweets, and replies
+
+Present the results in this format:
+
+
+Exact numbers and percentages
+Ranked lists with engagement metrics
+Top accounts and their metrics
+Clear categorization criteria used
